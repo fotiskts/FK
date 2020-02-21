@@ -1,1 +1,2 @@
-# this files belongs to Fotis Kotsaris 
+# Οι εργασιες 1,3,11,12 
+# Φωτης Κοτσαρης
